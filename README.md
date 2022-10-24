@@ -8,12 +8,5 @@ This repository is the work of  "WDA-Net: Weakly-Supervised Domain Adaptive Segm
 
 ## Architecture of WDA-Net 
 
-```html
-<center> Architecture of WDA-Net</center>
-<div align="center">
-    <img src='https://github.com/INZHAGY/WDA-Net/tree/main/figure/WDA-Net Architecture.png'
-         align=center/>
-</div>
-```
+![image](https://github.com/INZHAGY/WDA-Net/blob/main/figure/WDA-Net%20Architecture.png?raw=true)
 
-The code will be made public soon.
