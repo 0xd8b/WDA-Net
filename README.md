@@ -8,7 +8,7 @@ This repository is the work of  "WDA-Net: Weakly-Supervised Domain Adaptive Segm
 
 ## Architecture of WDA-Net 
 
-![WDA-Net Architecture](/home/fly/Group-Share/BIBM/WDA-Net/figure/WDA-Net Architecture.png)
+![WDA-Net Architecture](./figure/WDA-Net Architecture.png)
 
 
 
